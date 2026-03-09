@@ -53,30 +53,22 @@
 ![alt text](https://github.com/SLzDevOps/Netology-Docker-1/blob/main/screenshots/Screenshot_736.png).
 
   
-### Задача 1
+### Задача 4
 
-
+ССылка на форк - https://github.com/SLzDevOps/shvirtd-example-python
 
 Скриншоты выполнения:
-![alt text](https://github.com/SLzDevOps/Netology-Docker-1/blob/main/screenshots/Screenshot_720.png).
-![alt text](https://github.com/SLzDevOps/Netology-Docker-1/blob/main/screenshots/Screenshot_720.png).
-![alt text](https://github.com/SLzDevOps/Netology-Docker-1/blob/main/screenshots/Screenshot_720.png).
-![alt text](https://github.com/SLzDevOps/Netology-Docker-1/blob/main/screenshots/Screenshot_720.png).
-![alt text](https://github.com/SLzDevOps/Netology-Docker-1/blob/main/screenshots/Screenshot_720.png).
-![alt text](https://github.com/SLzDevOps/Netology-Docker-1/blob/main/screenshots/Screenshot_720.png).
-![alt text](https://github.com/SLzDevOps/Netology-Docker-1/blob/main/screenshots/Screenshot_720.png).
+![alt text](https://github.com/SLzDevOps/Netology-Docker-1/blob/main/screenshots/Screenshot_735.png).
+![alt text](https://github.com/SLzDevOps/Netology-Docker-1/blob/main/screenshots/Screenshot_737.png).
 
   
-### Задача 1
-
-
+### Задача 6
 
 
 Скриншоты выполнения:
-![alt text](https://github.com/SLzDevOps/Netology-Docker-1/blob/main/screenshots/Screenshot_720.png).
-![alt text](https://github.com/SLzDevOps/Netology-Docker-1/blob/main/screenshots/Screenshot_720.png).
-![alt text](https://github.com/SLzDevOps/Netology-Docker-1/blob/main/screenshots/Screenshot_720.png).
-![alt text](https://github.com/SLzDevOps/Netology-Docker-1/blob/main/screenshots/Screenshot_720.png).
-![alt text](https://github.com/SLzDevOps/Netology-Docker-1/blob/main/screenshots/Screenshot_720.png).
-![alt text](https://github.com/SLzDevOps/Netology-Docker-1/blob/main/screenshots/Screenshot_720.png).
-![alt text](https://github.com/SLzDevOps/Netology-Docker-1/blob/main/screenshots/Screenshot_720.png).
+![alt text](https://github.com/SLzDevOps/Netology-Docker-1/blob/main/screenshots/Screenshot_739.png).
+![alt text](https://github.com/SLzDevOps/Netology-Docker-1/blob/main/screenshots/Screenshot_740.png).
+![alt text](https://github.com/SLzDevOps/Netology-Docker-1/blob/main/screenshots/Screenshot_741.png).
+![alt text](https://github.com/SLzDevOps/Netology-Docker-1/blob/main/screenshots/Screenshot_742.png).
+![alt text](https://github.com/SLzDevOps/Netology-Docker-1/blob/main/screenshots/Screenshot_744.png).
+
